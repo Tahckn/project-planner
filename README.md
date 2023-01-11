@@ -1,6 +1,6 @@
 # ject-planner
 
-Project planner created with Vue.js and Tailwind.css/
+Project planner created with Vue.js and Tailwind.css\
 it uses [json-server](https://www.npmjs.com/package/json-server) to create database.
 
 ## Recommended IDE Setup
