@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root,
+html,
+body {
+  @apply h-full bg-backdrop text-text antialiased;
+}
+
+body {
+  min-height: 100vh;
+}
+
+#app {
+  max-width: 600px;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 2rem;
+  transition: color 0.5s, background-color 0.5s;
+  font-weight: normal;
+}
+
+@layer components {
+  .labelStyle {
+    @apply block text-text font-bold uppercase text-sm tracking-wide mt-5 mb-2.5 mx-0;
+  }
+  .inputStyle {
+    @apply p-2.5 outline-none drop-shadow-lg font-light focus:transition-shadow focus:delay-100  border-0 border-b-[1px] border-button focus:border-completed focus:shadow-sm focus:shadow-completed/50 bg-backdrop rounded-md;
+  }
+}

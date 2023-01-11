@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create a new project",
+      "details": "Lorem Ipsum",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make marketing campaign agha",
+      "details": "Lorem Ipsum agdfs",
+      "complete": true
+    },
+    {
+      "title": "weewwe",
+      "details": "wewew",
+      "complete": true,
+      "id": 3
+    },
+    {
+      "title": "tatata",
+      "details": "atatata",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
