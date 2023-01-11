@@ -25,8 +25,6 @@
 </template>
 
 <script setup>
-import { defineEmits } from 'vue'
-
 const props = defineProps(['current'])
 
 const emit = defineEmits(['filterChanged'])
