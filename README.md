@@ -21,6 +21,7 @@ npm install
 
 ```sh
 npm run dev
+json-server --watch data/db.json
 ```
 
 ### Compile and Minify for Production
