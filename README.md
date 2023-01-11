@@ -1,7 +1,7 @@
 # ject-planner
 
 Project planner created with Vue.js and Tailwind.css\
-it uses [json-server](https://www.npmjs.com/package/json-server) to create database.
+it uses [json-server](https://www.npmjs.com/package/json-server) to create fake database.
 
 ## Recommended IDE Setup
 
