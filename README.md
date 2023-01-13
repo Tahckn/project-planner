@@ -7,9 +7,13 @@ it uses [json-server](https://www.npmjs.com/package/json-server) to create fake 
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuration
+## Screenshots
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+![app image](https://github.com/Tahckn/project-planner/blob/main/public/chrome_LIY5nCRa7d.png)
+
+![app image](https://github.com/Tahckn/project-planner/blob/main/public/chrome_UAY57jfKif.png)
+
+![app image](https://github.com/Tahckn/project-planner/blob/main/public/chrome_VNWprT3C6n.png)
 
 ## Project Setup
 
